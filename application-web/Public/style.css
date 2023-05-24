@@ -1,0 +1,82 @@
+
+.h1
+{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding-left:  2%;
+}
+
+span{
+    color :blue;
+    font-size: 34px;
+}
+nav ul 
+{
+    margin-right: 32px;
+}
+nav ul li 
+{
+    float: right;
+    list-style: none;
+    text-transform: uppercase;
+    margin-right: 12px;
+    margin-left: 12px;
+    text-decoration: none;   
+    border:2px,solid,blue; ;
+    border-radius: 2px,solid,blue;
+}
+nav ul li a 
+{
+    text-decoration: none;
+    text-shadow: blanchedalmond;
+    
+}
+
+.img
+{
+    background-image: url("https://www.warketingdigital.net/wp-content/uploads/2022/08/creer-un-site-internet-pour-votre-restaurant-1024x576.jpg");
+    height: 600px;
+    width: 100%;
+  background-size:cover;
+  border: 2px solid darkgray;
+  
+  margin-top: 68px;
+ 
+    border:2px,solid;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+   
+}
+
+marquee
+{
+    padding: 10px;
+}
+.home
+{
+    margin-right: 102px;
+   border-color: red;
+   border: 2px solid;
+    border-radius: 5px;
+    font-size: 22px;
+    background-color: rgb(240, 83, 83);
+    color: white;
+    
+    
+}
+.plat
+{
+   display: flex;
+   margin-right: 5%;
+   margin-left: 5%;
+}
+img
+{
+    width: 180px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+p{
+    text-align: center;
+}
